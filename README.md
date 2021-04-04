@@ -13,4 +13,6 @@ for download video from youtube
 
 + Qt 5 Designer
 
-![Screenshot from 2021-04-04 16-08-59](https://user-images.githubusercontent.com/80406227/113517144-39015400-9576-11eb-92a4-d864b27b3b2f.png)
+
+
+![Screenshot from 2021-04-04 20-30-18](https://user-images.githubusercontent.com/80406227/113519515-a4eab900-9584-11eb-8669-af7d526ccc99.png)
