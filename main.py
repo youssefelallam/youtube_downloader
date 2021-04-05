@@ -6,6 +6,7 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.uic import loadUiType
 from pytube import YouTube
+from pytube.cli import on_progress
 from GUI import Ui_MainWindow
 
 class MainApp(QMainWindow , Ui_MainWindow):
